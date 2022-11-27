@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sergei Glavatskih, amateur programmer
+- 👀 I’m interested in a lot of things, but as for now ↙️
+- 🌱 I’m learning Java and (I still cannot beleive) - Spring🌿
+- 🙏 Hope very much I will survive it
