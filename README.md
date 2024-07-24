@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sergei Glavatskih, Java programmer
 - 👀 I’m interested in a lot of things, but as for now ↙️
-- 🌱 I’m deep learning Spring🌿
+- 🌱 I have finished course on Spring🌿
+- :top: and started something more challenging on java :zap:
 - 🙏 Hope very much I will survive it
